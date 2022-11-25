@@ -209,7 +209,7 @@ const n2 = n1;
 //object and arrays are reference type.
 
 const person1 = {
-    name: Jatin;
+    name: Jatin
 }
 
 const person2 = person1;
